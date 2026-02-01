@@ -7,7 +7,7 @@ The platform solves real challenges people face on campus. Students can quickly 
 
 A big focus of the project is creating a clean and friendly user experience. The interface is designed to be simple, responsive, and accessible on any device. Even someone who isn’t very tech-savvy should be able to find what they need without confusion. Clear dashboards, smooth navigation, and well-designed screens help users get things done quickly.
 
-Behind the scenes, the platform is built with a strong and flexible backend structure. Each major service—like shuttles, events, or maintenance—runs as its own module, so everything stays organized and easy to expand. Secure login, reliable data handling, and well-built APIs make sure the system stays fast and dependable. As the campus grows, new features like parking availability, dining updates, or digital ID services can be added without interrupting what already works.
+Behind the scenes, the platform is built with a strong and flexible backend structure. Each major service like shuttles, events, or maintenance, runs as its own module, so everything stays organized and easy to expand. Secure login, reliable data handling, and well-built APIs make sure the system stays fast and dependable. As the campus grows, new features like parking availability, dining updates, or digital ID services can be added without interrupting what already works.
 
 In the end, SmartCampus Connect is about creating a smarter, more connected campus. By combining everyday services into one platform and making them accessible to everyone, the project aims to improve efficiency and help create a campus environment that feels modern, intuitive, and student-friendly.
 
